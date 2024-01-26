@@ -1,0 +1,31 @@
+.OverallStructure-container {
+    left: 95px;
+    width: 1213px;
+    height: 713px;
+    border-radius: 40px;
+    border: 32px solid #529796;
+    z-index: 0;
+    position: relative;
+}
+.OS-description{
+    width: 1153px;
+    height: 126px;
+    position: absolute;
+    line-height: 47px;
+    font-size: 28px;
+    top: 127px;
+    bottom: 460;
+    left: 43px; 
+    right: 17px;
+}
+.OS-heading{
+    position: absolute;
+    width: 546px;
+    line-height: 72px;
+    height: 72px;
+    font-size: 60px;
+    top:37px;
+    bottom: 604px;
+    left: 49px;
+    right: 618px;
+}
